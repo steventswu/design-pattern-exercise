@@ -1,6 +1,6 @@
 ---
-slideOptions:
-  transition: slide
+title: 物件導向 設計模式
+description: 物件導向設計模式章節介紹與Factory Method
 ---
 
 # 物件導向 設計模式
