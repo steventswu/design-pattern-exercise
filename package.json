@@ -1,0 +1,19 @@
+{
+  "name": "design-pattern",
+  "version": "0.0.1",
+  "description": "Learn Design Pattern",
+  "main": "index.js",
+  "repository": "https://github.com/steventswu/design-pattern-exercise.git",
+  "author": "Steven Wu <steven.wu.udn@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.1",
+    "@babel/preset-env": "^7.10.1",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
